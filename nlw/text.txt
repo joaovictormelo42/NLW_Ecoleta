@@ -1,0 +1,10 @@
+  //npm -init
+  //npm install express
+
+
+  //npm start para iniciar o servidor, depois de colocar ele no script.
+
+  //npm install nodemon -D para instalar um pacote para não ter que ficar
+  //iniciando e encerrando o servidor o tempo todo. o -D é para modo desenvolvedor.
+
+  //npm install nunjucks para dar "força" para o HTML
